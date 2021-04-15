@@ -1,4 +1,7 @@
 ------------------------------------------------------------------------------------
+
+[Google colab notebook link](https://colab.research.google.com/drive/1XRiQbkJ8RK09voKzAN4SFfKpIXJmGMlm?usp=sharing)
+
 ## basic read.md like file so that user can understand the program
 
 ### Warning
